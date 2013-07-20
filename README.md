@@ -15,5 +15,6 @@ mvcといっておきながらビューの機能はないに等しい。スマ�
 -- on
 - ビュー(形だけ)
 
-
-
+## ライセンス
+MIT
+何かあれば nacika.inscatolare@gmail.com まで
