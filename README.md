@@ -1,4 +1,4 @@
---mvc.js
+oreoremvc.js
 ========
 
 backbone.jsあたりを参考にして作った他ライブラリ非依存な軽量mvcフレームワークです。
